@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(90deg, #84fabe 0%, #8fd3f4 100%);
+}
+
+.col-md-6{
+    border: 5px solid black;
+    /*
+    important tag added to override bootstrap class as it doesn't work otherwise
+    */
+    margin-top: 150px !important;
+    padding: 20px;
+}
+
+button {
+    margin:20px !important;
+    border: 2px solid black !important;
+}
+
+h1 {
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
