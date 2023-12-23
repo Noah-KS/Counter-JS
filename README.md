@@ -11,10 +11,10 @@ To refresh my technical skills and knowledge through simple practical projects. 
 ### ✅ 1. Counter in Javascript 
 - **Description**: A simple counter application using HTML, Bootstrap, and JavaScript to increment, decrement, and reset a numerical value with a sleek UI.
 
-### ⚡ 2. Counter in React (Current Project)
+### ✅ 2. Counter in React
 - **Description**: The same counter application, but this time leveraging the power of React, with a focus on React fundamentals like components, state, and props, and how they interact to build dynamic web applications.
 
-### 🔴 3. Calculator in Javascript
+### ⚡ 3. Calculator in Javascript (Current Project)
 
 ### 🔴 4. Calculator in React
 
