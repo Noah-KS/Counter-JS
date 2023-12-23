@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="./style.css" />
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+
+            <h1>Javascript Calculator</h1>
+
+            <table class = "table">
+                <tr>
+                    <td colspan = "3"> <input  type="text" id = "text"> </td>
+                    <td><input type="button" value="CLEAR" onClick="clear()"></td>  
+                </tr>
+
+                <tr>
+                    <td><input type="button" value="1" onClick="display('1')"></td>
+                    <td><input type="button" value="2" onClick="display('2')"></td>
+                    <td><input type="button" value="3" onClick="display('3')"></td>
+                    <td><input type="button" value="*" onClick = "display('*')"></td>
+                </tr>
+
+                <tr>
+                  <td><input type="button" value="4" onClick="display('4')"></td>
+                  <td><input type="button" value="5" onClick="display('5')"></td>
+                  <td><input type="button" value="6" onClick="display('6')"></td>
+                  <td><input type="button" value="/" onClick = "display('/')"></td>
+              </tr>
+
+              <tr>
+                <td><input type="button" value="7" onClick="display('7')"></td>
+                <td><input type="button" value="8" onClick="display('8')"></td>
+                <td><input type="button" value="9" onClick="display('9')"></td>
+                <td><input type="button" value="-" onClick = "display('-')"></td>
+            </tr>
+            <tr>
+              <td><input type="button" value="0" onClick="display('0')"></td>
+              <td><input type="button" value="." onClick="display('.')"></td>
+              <td><input type="button" value="=" onClick="calc()"></td>
+              <td><input type="button" value="+" onClick = "display('+')"></td>
+          </tr>
+            </table>
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
