@@ -14,10 +14,10 @@ To refresh my technical skills and knowledge through simple practical projects. 
 ### ✅ 2. Counter in React
 - **Description**: The same counter application but this time leveraging the power of React, with a focus on React fundamentals like components, state management, event handling, and JSX to build a web application.
 
-### ⚡ 3. Calculator in Javascript (Current Project)
+### ✅ 3. Calculator in Javascript
 - **Description**: A classic calculator application that combines HTML, CSS, and JavaScript. It is capable of performing both basic arithmetic and more complex equations involving as many operators as you want, adhering to the order of operations (ex: 3 * 4 + 51 / 3 - 3).
 
-### 🔴 4. Calculator in React
+### ⚡ 4. Calculator in React (Current Project)
 
 ### 🔴 5. Form Validation in Javascript
 
