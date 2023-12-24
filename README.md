@@ -11,7 +11,7 @@ To refresh my technical skills and knowledge through practical projects. Each pr
 ## Online Courses Attended
 In the pursuit of enhancing my technical skills, I have attended several online courses on React and JavaScript. The list below is a summary of the courses I have attended.
 
-[20 hands-on projects in React and JavaScript by K.Sathyaprakash Reddy](https://www.udemy.com/course/build-20-hands-on-projects-in-react-and-javascript/#reviews) Provides a basic overview of React and Javascript via development of basic applications.
+[20 hands-on projects in React and JavaScript by K.Sathyaprakash Reddy](https://www.udemy.com/course/build-20-hands-on-projects-in-react-and-javascript) Provides a basic overview of React and Javascript via development of basic applications.
 
 ## Warmup Projects
 ### ✅ 1 & 2. Counter in Javascript / Counter in React
