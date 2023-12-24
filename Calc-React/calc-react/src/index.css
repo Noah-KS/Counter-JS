@@ -1,0 +1,66 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #2b5876, #4e4376);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.col-md-12 {
+    margin-top: 100px !important;
+    border:5px solid black !important;
+    text-align: center;
+
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+button {
+    width: 100% !important;
+    padding: 10px !important;
+    border: none !important;
+    background-color: #f2f2f2 !important;
+    color: #333 !important;
+    font-size: 1.2em !important;
+    border-radius: 5px !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+    transition: background-color 0.3s !important;
+}
+
+button:hover {
+    background-color: #2194ba !important;
+}
+
+.clear-btn {
+    background-color: #ff4d4d !important;
+    color: #fff !important;
+    width: 100%;
+}
+
+input {
+    width: 100% !important;
+    padding: 7px !important;
+    border: none !important;
+    background-color: #fff !important;
+    color: #333 !important;
+    font-size: 1.5em !important;
+    border-radius: 5px !important;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+}
+
+h1 {
+    font-weight: bolder !important;
+    margin-bottom: 30px !important;
+    color: rgb(225, 245, 92) !important;
+    font-size: 50px !important;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+table th, table td {
+    background-color: transparent !important;
+    border: none !important;
+    padding:7px !important;
+}
