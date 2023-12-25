@@ -1,15 +1,17 @@
 # React and JavaScript Projects
 
 ## Overview
-This contains a series of small projects as part of my warm up back to programming after my exchange semester in Korea, where I persued other topics like Business and Economics to gain a greater global perspective and broaden my understanding of other sectors. Each project is too small to have its own repo so I will compile them all in here.
+This contains a series of small projects as part of my warm up back to programming after my exchange studies. 
+Each project is too small to have its own repo so I will compile them all in here. 
+Some projects are even combinations of smaller projects. 
 
-I am doing this by attending online courses, all of which are listed below.
+I am doing this by attending online courses, which are listed below.
 
 ## Objective
-To refresh my technical skills and knowledge through practical projects. Each project will gradually ramp up in difficulty, but the end goal is for this repository to contain projects I created out of practice to test my foundations before I delve into more complex projects in other repositories.
+To refresh my technical skills and knowledge through projects. Difficulty will gradually ramp up, with the end goal for this repo being to contain small practice projects before I delve into more complex ones.
 
 ## Online Courses Attended
-In the pursuit of enhancing my technical skills, I have attended several online courses on React and JavaScript. The list below is a summary of the courses I have attended.
+The projects are based on the online courses I attended below. For some projects in this repo, I combined projects taught from the lectures as some were too basic on their own.
 
 [20 hands-on projects in React and JavaScript by K.Sathyaprakash Reddy](https://www.udemy.com/course/build-20-hands-on-projects-in-react-and-javascript) Provides a basic overview of React and Javascript via development of basic applications.
 
@@ -22,10 +24,12 @@ In the pursuit of enhancing my technical skills, I have attended several online 
 ### ✅ 3 & 4. Calculator in Javascript / Calculator in React
 - **Description**: A calculator that can perform complex equations involving infinite operators, adhering to the order of operations (ex: 3 * 4 + 51 / 3 - 3).
 
-### ⚡ 5 & 6. Basic Form Validation in Javascript / Basic Form Validation in React
+### ⚡ 5 & 6. Form Validation in Javascript / Form Validation in React
 
 ### 🔴 7 & 8. COVID Statistics Database in Javascript / COVID Statistics Database in React
 
 ### 🔴 9 & 10. Menu Ordering Website in Javascript / Menu Ordering Website in React
 
-## Simple Projects
+### Others
+Notes App
+Speech Synthesizer
