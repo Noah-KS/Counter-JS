@@ -2,10 +2,9 @@
     justify-content: center;
 }
 
-.col-md-4 {
-    text-align: center;
+.col-md-5 {
     margin-top: 150px !important;
-    padding: 20px;
+    padding: 15px;
     background-color: rgb(1,1,1,0.5);
 }
 
@@ -13,7 +12,7 @@
     background-color: transparent !important;
     border:none !important;
     border-bottom: 3px solid rgb(204, 78, 0) !important;
-    margin-top: 20px;
+    margin-top: 15px;
     color:white !important;
 }
 
@@ -23,10 +22,11 @@ body {
 
 h1 {
     color:rgb(198, 198, 198) !important ;
+    padding-left: 10px;
 }
 
 button {
-    margin-top: 40px !important;
+    margin-top: 20px !important;
     float: left;
 }
 
@@ -43,4 +43,5 @@ small {
     font-weight: bold;
     margin: 5px;
     text-align: left !important;
+    display: block;
 }
