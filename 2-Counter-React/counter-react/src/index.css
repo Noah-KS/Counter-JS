@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(90deg, #84fabe 0%, #8fd3f4 100%);
+  background-color: #0f2633 !important; 
 }
 
 h1 {
@@ -11,4 +11,14 @@ h1 {
 button {
   margin: 20px !important;
   border: 2px solid black !important;
+}
+
+.col-md-4 {
+  margin-top: 150px !important;
+  border: 5px solid black;
+  padding: 20px;
+}
+
+.row {
+  max-width: 1920px;
 }
