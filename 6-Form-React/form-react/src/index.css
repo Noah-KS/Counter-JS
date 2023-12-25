@@ -1,3 +1,59 @@
 .row {
     justify-content: center;
 }
+
+body {
+    background-color: rgb(24, 25, 33) !important;
+}
+
+.form-control {
+    background-color: transparent !important;
+    border:none !important;
+    border-bottom: 2px solid rgb(204, 78, 0) !important;
+    margin-top: 15px;
+    color:white !important;
+    transition: border-color 0.2s !important;
+    margin-bottom: 45px !important;
+}
+
+.form-control::-webkit-input-placeholder { color: #c6c6c6 !important; }
+.form-control:-moz-placeholder { color: #c6c6c6 !important; }
+.form-control::-moz-placeholder { color: #c6c6c6 !important; }
+.form-control:-ms-input-placeholder { color: #c6c6c6 !important; }
+
+.form-control:hover,
+.form-control:focus {
+    border-bottom: 2px solid #ffb300 !important;
+}
+
+.col-md-4 {
+    margin-top: 150px !important;
+    padding: 15px !important;
+    background-color: rgba(1, 1, 1, 0.5) !important;
+    border: 2px solid #cc4e00 !important;
+    width: 25% !important; /* Adjust the width as needed */
+    box-sizing: border-box !important;
+}
+
+h1 {
+    color: #c6c6c6 !important;
+    padding-left: 10px !important;
+    text-align: center !important;
+    margin-bottom: 40px !important;
+}
+
+button {
+    background-color: #c6c6c6 !important;
+    color: #000000 !important;
+    border: none !important;
+    padding: 10px 20px !important;
+    margin-top: 20px !important;
+    width: 100%;
+    cursor: pointer !important;
+    transition: background-color 0.2s !important;
+    margin-bottom: 5px !important;
+}
+
+button:hover {
+    background-color: #db751b !important;
+}

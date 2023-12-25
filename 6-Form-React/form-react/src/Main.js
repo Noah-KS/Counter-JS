@@ -5,7 +5,7 @@ export default function Main() {
     <div>
       <div className="row">
 
-        <div className="col-md-6">
+        <div className="col-md-4">
           <h1>REACT SIGN UP FORM</h1>
 
           <input type = 'text' placeholder = 'username' className = 'form-control' />
@@ -13,7 +13,7 @@ export default function Main() {
           <input type = 'text' placeholder = 'password' className = 'form-control' />
           <input type = 'text' placeholder = 'confirm password' className = 'form-control' />
 
-          <button className = "btn btn-success">SUBMIT</button>
+          <button className = "btn btn-primary">SUBMIT</button>
 
         </div>
       </div>
