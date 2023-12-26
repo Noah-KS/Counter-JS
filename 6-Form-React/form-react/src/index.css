@@ -8,13 +8,21 @@ body {
 
 .form-control {
     background-color: transparent !important;
-    border:none !important;
-    border-bottom: 2px solid rgb(204, 78, 0) !important;
     margin-top: 15px;
     color:white !important;
     transition: border-color 0.2s !important;
-    margin-bottom: 45px !important;
+    border: 2px solid transparent !important;
+    border-bottom: 2px solid rgb(204, 78, 0) !important;
 }
+
+.form-control-error {
+    border: 2px solid red !important;
+}
+
+.form-control-correct {
+    border: 2px solid green !important;
+}
+
 
 .form-control::-webkit-input-placeholder { color: #c6c6c6 !important; }
 .form-control:-moz-placeholder { color: #c6c6c6 !important; }
@@ -23,7 +31,7 @@ body {
 
 .form-control:hover,
 .form-control:focus {
-    border-bottom: 2px solid #ffb300 !important;
+    border: 2px solid #ffb300 !important;
 }
 
 .col-md-4 {
@@ -39,7 +47,6 @@ h1 {
     color: #c6c6c6 !important;
     padding-left: 10px !important;
     text-align: center !important;
-    margin-bottom: 40px !important;
 }
 
 button {
@@ -56,4 +63,26 @@ button {
 
 button:hover {
     background-color: #db751b !important;
+}
+
+.container {
+    height: 10px !important;
+    background-color: #000000 !important;
+    border-radius: 50px !important;
+    width:100% !important;
+    margin-bottom: 25px !important;
+}
+
+.filler {
+    background-color: green !important;
+    height: 100 !important;
+    border-radius: 50px !important;
+    transition: width 1s ease-in-out !important;
+}
+
+p {
+    color: red;
+    margin-bottom: 45px !important;
+    margin-left: 5px;
+    font-weight: bold;
 }

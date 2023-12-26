@@ -11,9 +11,9 @@
 .form-control {
     background-color: transparent !important;
     border:none !important;
-    border-bottom: 3px solid rgb(204, 78, 0) !important;
     margin-top: 15px;
     color:white !important;
+    border-bottom: 3px solid rgb(204, 78, 0) !important;
 }
 
 body {
