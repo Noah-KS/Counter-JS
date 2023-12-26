@@ -34,6 +34,7 @@ The projects with 2 numbers (ex: 1 & 2) means it was created twice, once in JS a
 - **Description**: A sign-up form with checks in place and responsive color change feedback. Also has a progress bar based on the number of inputs completed. 
 
 ### ⚡ 7 & 8. COVID Statistics Database
+- **Description**: An interactive database using AJAX to aggregate real-time COVID-19 statistics from a global COVID-19 API. Includes every country's population, active cases, total confirmed cases, deaths, and mortality rate.
 
 ### 🔴 9 & 10. Menu Ordering Website
 

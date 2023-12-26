@@ -26,6 +26,7 @@ $.ajax({
       $("#tbody").append(tableRow);
 
     });
+    $('#covid-table').DataTable();
   },
   error: function (error) {
     console.log(error);
