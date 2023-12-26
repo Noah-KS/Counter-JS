@@ -24,9 +24,10 @@ The projects are based on the online courses I attended below. For some projects
 ### ✅ 3 & 4. Calculator in Javascript / Calculator in React
 - **Description**: A calculator that can perform complex equations involving infinite operators, adhering to the order of operations (ex: 3 * 4 + 51 / 3 - 3).
 
-### ⚡ 5 & 6. Form Validation in Javascript / Form Validation in React
+### ✅ 5 & 6. Form Validation in Javascript / Form Validation with Progress Bar in React
+- **Description**: A sign-up form with checks in place and responsive color change feedback (green for valid/red for invalid). Also has a progress bar based on the number of fields completed. 
 
-### 🔴 7 & 8. COVID Statistics Database in Javascript / COVID Statistics Database in React
+### ⚡ 7 & 8. COVID Statistics Database in Javascript / COVID Statistics Database in React
 
 ### 🔴 9 & 10. Menu Ordering Website in Javascript / Menu Ordering Website in React
 
