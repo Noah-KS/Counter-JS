@@ -12,30 +12,40 @@ export default function Main() {
   const [errorPassword, setErrorPassword] = useState("");
   const [errorCPassword, setErrorCPassword] = useState("");
 
+  const [progress, setProgress] = useState(0);
+
   function validate() {
+    let newProgress = 0;
+
     if (username.length > 3) {
       setErrorUsername("");
+      newProgress++;
     } else {
       setErrorUsername("Username must be greater than 3 characters long");
     }
 
     if (email.length > 8 && email.includes("@")) {
       setErrorEmail("");
+      newProgress++;
     } else {
       setErrorEmail("Must be a valid email");
     }
 
     if (password.length > 5) {
       setErrorPassword("");
+      newProgress++;
     } else {
       setErrorPassword("Password must be greater than 5 characters long");
     }
 
     if (password === cPassword && password.length > 5) {
       setErrorCPassword("");
+      newProgress++;
     } else {
       setErrorCPassword("Passwords do not match ");
     }
+
+    setProgress((newProgress / 4) * 100);
   }
 
   return (
@@ -43,7 +53,7 @@ export default function Main() {
       <div className="row">
         <div className="col-md-4">
           <h1>REACT SIGN UP FORM</h1>
-          <ProgressBar></ProgressBar>
+          <ProgressBar progressDone={progress} />
           <input
             type="text"
             placeholder="username"

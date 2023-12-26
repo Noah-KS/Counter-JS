@@ -71,11 +71,12 @@ button:hover {
     border-radius: 50px !important;
     width:100% !important;
     margin-bottom: 25px !important;
+    padding: 0 !important;
 }
 
 .filler {
+    height: 100% !important;
     background-color: green !important;
-    height: 100 !important;
     border-radius: 50px !important;
     transition: width 1s ease-in-out !important;
 }
