@@ -5,7 +5,7 @@ A series of small projects to warm up back to programming after my exchange stud
 
 I am doing this by attending online courses, which are listed below.
 
-Most projects are combinations of smaller projects presented within the lectures.
+Most projects are zcombinations of smaller projects presented within the lectures.
 
 ## Objective
 To refresh my technical skills and knowledge through practical application. Difficulty will gradually ramp up before I delve into more complex work.
@@ -40,7 +40,3 @@ The projects with 2 numbers (ex: 1 & 2) means I created it twice, once in JS and
 - **Description**: An interactive database using AJAX to aggregate real-time COVID-19 statistics from a global COVID-19 API. Includes every country's population, active cases, total confirmed cases, deaths, and mortality rate. Contains searching and sorting functionality.
 
 ### 🔴 9 & 10. Menu Ordering Website
-
-### Others
-Notes App
-Speech Synthesizer
