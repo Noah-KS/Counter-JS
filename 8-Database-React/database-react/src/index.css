@@ -3,5 +3,46 @@
 }
 
 h1 {
+  margin-top: 20px !important;
+  text-align: center;
+  color: rgb(0, 128, 255) !important;
+}
+
+body {
+  background-color: #1A1A1A !important;
+}
+
+.table {
+  --bs-body-bg: #080808 !important;
+  --bs-border-color: rgb(84, 84, 84) !important;
+}
+
+
+/* head */
+.table th {
+  color: white !important;
+  background-color: transparent !important;
+}
+
+/* table contents */
+.table td {
+  color: white !important;
+  padding: 20px !important;
+}
+
+.search-container {
+  margin-bottom: 20px !important;
+  text-align: center;
+}
+
+.search-input {
+  padding: 1px !important;
+  font-size: 12px;
+  width: 100% !important; /* Adjust width as needed */
+  max-width: 500px !important; /* Adjust max-width as needed */
+  height: 50% !important;
+  max-height: 50px !important;
+  outline: none !important;
+  margin: 0 auto !important;
   text-align: center;
 }

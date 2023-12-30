@@ -38,25 +38,29 @@ export default function Main() {
 
   return (
     <div>
-      <h1>REACT Covid Statistics Database</h1>
-      <input
-        type="text"
-        placeholder="Search by Country"
-        value={search}
-        onChange={handleSearchChange}
-      />
+      <h1>REACT COVID STATISTICS DATABASE</h1>
+
+      <div className="search-container">
+        <input
+          className="search-input"
+          type="text"
+          placeholder=""
+          value={search}
+          onChange={handleSearchChange}
+        />
+      </div>
 
       <div className="row">
         <div className="col-md-8">
           <table className="table">
             <thead>
               <tr>
-                <th>Country</th>
-                <th>Population</th>
-                <th>Latest Active</th>
-                <th>Confirmed Cases</th>
-                <th>Deaths</th>
-                <th>Mortality Rate </th>
+                <th>COUNTRY</th>
+                <th>POPULATION</th>
+                <th>ACTIVE CASES</th>
+                <th>CONFIRMED CASES</th>
+                <th>DEATHS</th>
+                <th>MORTALITY RATE</th>
               </tr>
             </thead>
 
