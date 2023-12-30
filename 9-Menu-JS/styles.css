@@ -1,0 +1,46 @@
+.row {
+    justify-content: center;
+}
+
+img {
+    border-radius: 5px !important;
+}
+
+.col-md-3 {
+    margin:30px !important;
+    
+}
+
+.img-fluid {
+    padding: 15px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    margin:0px;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+#navbar {
+    background-color: black;
+
+}
+
+li {
+    color: white;
+    list-style-type: none;
+    display: inline;
+    padding: 30px !important;
+}
+
+#nav-elements {
+    text-align: center;
+    padding: 15px !important;
+}
+
+h1 {
+    text-align: center;
+}

@@ -36,7 +36,8 @@ The projects with 2 numbers (ex: 1 & 2) means I created it twice, once in JS and
 ### ✅ 5 & 6. Form Validation with Progress Bar
 - **Description**: A sign-up form with checks in place and responsive color change feedback. Also has a progress bar based on the number of inputs completed. 
 
-### ⚡ 7 & 8. COVID Statistics Database
-- **Description**: An interactive database using AJAX to aggregate real-time COVID-19 statistics from a global COVID-19 API. Includes every country's population, active cases, total confirmed cases, deaths, and mortality rate. Contains searching and sorting functionality.
+### ✅ 7 & 8. COVID Statistics Database
+- **Description**: An interactive database using AJAX (JS) & AXIOS to make HTTP requests to aggregate real-time COVID-19 statistics from a global COVID-19 API. Includes every country's population, active cases, total confirmed cases, deaths, and mortality rate. Contains searching and sorting functionality. 
 
-### 🔴 9 & 10. Menu Ordering Website
+### ⚡ 9 & 10. Menu Ordering Website
+- **Description**: 
